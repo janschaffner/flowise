@@ -1,0 +1,22 @@
+Text from: Reorder.pptx
+Place Reorders 
+Process Description 
+
+First: Navigation to the orders 
+Click on profile name 
+Click on order history 
+Click on place reorder 
+
+Then: order and product selection 
+1 
+2 
+3 
+Select the order that you want to reorder 
+Select the products in that order that you want to reorder 
+Click on “Reorder” button 
+
+The reordered items are then placed into your cart 
+
+Need help? 
+IMPORTANT 
+In case of questions: take a look at the Help section 

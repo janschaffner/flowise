@@ -1,0 +1,52 @@
+Text from: warehousemngmt.pptx
+The  new  Hilti Warehouse Management Service 
+Version 2.0 
+December  2023 
+
+Agenda 
+Idea 
+Version 2.0  of  Warehouse Management 
+Changes   compared   to  Version 1 
+Outlook  
+
+Idea 
+Offering  an  Efficient Warehouse Organization  to focus on core business activities while also saving time and money 
+Our Goal: Taking charge of customers’ warehouse, ensuring it becomes a strategic asset for the business operations. 
+Optimal organization to provide transparency and improve productivity 
+Addressing common challenges of warehouse management 
+Maintaining optimal stock levels and ensuring readiness for upcoming projects. 
+Initiative based on idea by Jahangir 
+More Details:  See „ Warehouse Management  Documentation “ 
+
+Version 2.0  of  Warehouse Management 
+
+New Hilti Mobile App 
+The customer can conveniently scan and reorder  labeled  Hilti products using the Hilti Mobile App. 
+Barcodes on shelf labels or QR codes on Hilti packaging can be utilized by the customer for quick and easy reordering. 
+Download will be for Free: 
+The app is available for free download on the App Store. 
+It is also available for free on Google Play. 
+
+
+Available   prefabricated   shelving   sets   
+Basic 
+2x  Red   Upright  Frame  (H x D: 2278mm x 500mm) 
+5x  Galvanized   Shelves (W: 995mm/ max. Load 200 kg) 
+5x Label Holders (1 per  Shelf ) 
+10x  Vertical   Dividers   for   Shelf  Segmentation 
+1x Side  Perforated  Plate  including   
+10x  Perforated  Plate Hooks 
+Comfort 
+Better than Basic 
+Premium 
+Better than Comfort 
+
+Changes   compared   to  Version 1 
+New  function  „Hilti Mobile App“  included 
+Adding   the   option   to   use   the  HILTI Warehouse Management Service  for   already   existing   shelving   system 
+
+
+Outlook 
+Version 3.0  with   new   features 
+Using  RFID  to   automatically   scan   articles that are brought into or removed from the warehouse 
+Frank will prepare an assessment of the potential of AI for warehouse services 
